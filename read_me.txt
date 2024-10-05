@@ -1,0 +1,1 @@
+Projekt do odpalenia lokalnie przy pomocy XAMPP Control Panel.
